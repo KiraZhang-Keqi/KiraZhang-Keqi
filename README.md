@@ -9,8 +9,6 @@ Interested in:
 - Applied AI
 - Product Analytics
 
----
-
 ## Featured Projects
 
 ### AI Narrative Intelligence
