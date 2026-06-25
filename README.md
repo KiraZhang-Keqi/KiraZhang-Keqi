@@ -10,8 +10,8 @@ Building AI-powered data products, analytics systems, and machine learning appli
 
 <br>
 
-<a href="https://www.linkedin.com/in/keqi-zhang-391843268/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/keqi-zhang-391843268/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
