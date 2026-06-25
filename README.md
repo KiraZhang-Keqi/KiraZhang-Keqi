@@ -16,7 +16,7 @@ Building AI-powered data products, analytics systems, and machine learning appli
 
 </div>
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
