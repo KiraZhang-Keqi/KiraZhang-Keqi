@@ -6,7 +6,7 @@
 
 Building analytics platforms, data pipelines, and AI-powered decision support systems.
 
-Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **Data Engineer**, and **Data Analytics** opportunities.
+Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, and **Data Analytics** opportunities.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/keqi-zhang-391843268/" target="_blank">
