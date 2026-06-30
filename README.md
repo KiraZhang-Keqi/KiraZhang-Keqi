@@ -16,7 +16,6 @@ Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **
 
 </div>
 
----
 
 # Featured Projects
 
@@ -26,15 +25,11 @@ AI-powered platform that identifies the exact root cause of ETL pipeline failure
 
 **Tech:** Python • Claude API • Splunk Enterprise • REST APIs • MCP
 
----
-
 ### Cash Flow Analytics Platform
 
 Business analytics platform that forecasts 90-day cash runway and recommends actions such as inventory liquidation, receivables collection, or financing.
 
 **Tech:** Python • Streamlit • PostgreSQL • Pandas
-
----
 
 ### News Intelligence Analytics Pipeline
 
@@ -42,7 +37,6 @@ Behavioral NLP pipeline that classified 10,500+ news headlines into 12 business 
 
 **Tech:** Python • Scikit-Learn • Transformers • Streamlit
 
----
 
 ### Survey Analytics Dashboard
 
@@ -50,7 +44,6 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 
 **Tech:** Tableau • SQL • Python • Qualtrics • Excel
 
----
 
 # Tech Stack
 
@@ -87,8 +80,6 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-
----
 
 ### Interests
 
