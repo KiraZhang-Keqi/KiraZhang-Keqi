@@ -4,7 +4,7 @@
 
 **M.S. in Data Science @ Rutgers University 🇺🇸**
 
-Building modern analytics platforms, data pipelines, and AI-powered decision support systems.
+Building analytics platforms, data pipelines, and AI-powered decision support systems.
 
 Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **Data Engineer**, and **Data Analytics** opportunities.
 <div align="center">
