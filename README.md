@@ -92,7 +92,7 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
 
-### Interests
+## Interests
 
 Analytics Engineering • Data Platforms • Data Quality • Business Intelligence • AI-powered Analytics • Decision Support Systems
 
