@@ -1,4 +1,4 @@
-# Hi, I'm Keqi Zhang 👋
+# Hi, I'm Keqi Zhang 
 
 ### Analytics Engineering • Data Engineering • AI Analytics
 
