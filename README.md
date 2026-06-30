@@ -18,9 +18,7 @@ Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **
 
 # Featured Projects
 
-# 🚀 Featured Projects
-
-## 🚀 [AI Data Observability Platform](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
+## [AI Data Observability Platform](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 AI-powered data observability platform that identifies the exact root cause of ETL pipeline failures through schema, lineage, and data-quality analysis.
 
