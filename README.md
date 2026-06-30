@@ -1,13 +1,12 @@
-# Hi, I'm Keqi Zhang
+# Hi, I'm Keqi Zhang 👋
 
 ### Analytics Engineering • Data Engineering • AI Analytics
 
 **M.S. in Data Science @ Rutgers University 🇺🇸**
 
-I build modern analytics platforms that transform raw data into reliable business insights through data pipelines, analytics engineering, and AI-powered decision support.
+Building modern analytics platforms, data pipelines, and AI-powered decision support systems.
 
 Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **Data Engineer**, and **Data Analytics** opportunities.
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/keqi-zhang-391843268/" target="_blank">
@@ -19,23 +18,39 @@ Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **
 
 # Featured Projects
 
-### AI Data Observability Platform
+# 🚀 Featured Projects
 
-AI-powered platform that identifies the exact root cause of ETL pipeline failures through schema validation, lineage analysis, and data quality monitoring.
+## 🚀 [AI Data Observability Platform](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
+
+AI-powered data observability platform that identifies the exact root cause of ETL pipeline failures through schema, lineage, and data-quality analysis.
 
 **Tech:** Python • Claude API • Splunk Enterprise • REST APIs • MCP
 
-### Cash Flow Analytics Platform
+##  [Cash Flow Analytics Platform](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
 
-Business analytics platform that forecasts 90-day cash runway and recommends actions such as inventory liquidation, receivables collection, or financing.
+B2B cash-flow analytics platform that forecasts 90-day runway and recommends inventory liquidation, receivable collection, or financing actions.
 
-**Tech:** Python • Streamlit • PostgreSQL • Pandas
+**Tech:** Python • PostgreSQL • Streamlit • Pandas • Data Analytics
 
-### News Intelligence Analytics Pipeline
+##  [News Intelligence Analytics Pipeline](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
-Behavioral NLP pipeline that classified 10,500+ news headlines into 12 business categories for downstream analytics.
+Behavioral NLP analytics pipeline that classified 10,500+ news headlines into business intelligence categories for downstream analytics and visualization.
 
 **Tech:** Python • Scikit-Learn • Transformers • Streamlit
+
+
+## [Voice Navigation AI Assistant](https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3)
+
+Hands-free voice navigation assistant powered by Gemini that enables natural language interaction and intelligent workflow automation.
+
+**Tech:** Python • Gemini API • Speech Recognition • REST APIs
+
+
+## [March Madness Prediction](https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle)
+
+Machine learning pipeline for NCAA March Madness prediction using feature engineering, model evaluation, and tournament simulation.
+
+**Tech:** Python • Scikit-Learn • Pandas • Machine Learning
 
 
 ### Survey Analytics Dashboard
