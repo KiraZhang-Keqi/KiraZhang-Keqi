@@ -16,40 +16,38 @@ Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **
 </div>
 
 
-# Featured Projects
+## Featured Projects
 
-## [AI Data Observability Platform](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
+### AI Data Observability Platform <a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 AI-powered data observability platform that identifies the exact root cause of ETL pipeline failures through schema, lineage, and data-quality analysis.
 
-**Tech:** Python • Claude API • Splunk Enterprise • REST APIs • MCP
+**Tech Stack:** Python • Splunk Enterprise • Claude API • MCP
 
-##  [Cash Flow Analytics Platform](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
+
+### Cash Flow Analytics Platform <a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 B2B cash-flow analytics platform that forecasts 90-day runway and recommends inventory liquidation, receivable collection, or financing actions.
 
-**Tech:** Python • PostgreSQL • Streamlit • Pandas • Data Analytics
+**Tech Stack:** Python • PostgreSQL • Streamlit • Pandas
 
-##  [News Intelligence Analytics Pipeline](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
+### News Intelligence Analytics Pipeline <a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 Behavioral NLP analytics pipeline that classified 10,500+ news headlines into business intelligence categories for downstream analytics and visualization.
 
-**Tech:** Python • Scikit-Learn • Transformers • Streamlit
+**Tech Stack:** Python • Scikit-Learn • Transformers • Streamlit
 
+### Voice Navigation AI Assistant <a href="https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
-## [Voice Navigation AI Assistant](https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3)
+Hands-free voice navigation assistant powered by Gemini for natural language interaction and workflow automation.
 
-Hands-free voice navigation assistant powered by Gemini that enables natural language interaction and intelligent workflow automation.
+**Tech Stack:** Python • Gemini API • Speech Recognition • REST APIs
 
-**Tech:** Python • Gemini API • Speech Recognition • REST APIs
-
-
-## [March Madness Prediction](https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle)
+### March Madness Prediction <a href="https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 Machine learning pipeline for NCAA March Madness prediction using feature engineering, model evaluation, and tournament simulation.
 
-**Tech:** Python • Scikit-Learn • Pandas • Machine Learning
-
+**Tech Stack:** Python • Scikit-Learn • Pandas • Machine Learning
 
 ### Survey Analytics Dashboard
 
