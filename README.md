@@ -58,13 +58,13 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 
 # Tech Stack
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
 
-## Analytics Engineering
+### Analytics Engineering
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
 ![ETL](https://img.shields.io/badge/ETL-00599C?style=flat-square)
@@ -72,7 +72,7 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk)
 ![Data Quality](https://img.shields.io/badge/Data_Quality-4CAF50?style=flat-square)
 
-## Analytics & BI
+### Analytics & BI
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
@@ -80,14 +80,14 @@ Interactive Tableau dashboards and automated reporting for institutional survey 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square\&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel)
 
-## AI for Analytics
+### AI for Analytics
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai)
 ![MCP](https://img.shields.io/badge/MCP-6C63FF?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit)
 
-## Development
+### Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
