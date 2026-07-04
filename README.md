@@ -1,100 +1,169 @@
-# Hi, I'm Keqi Zhang 
+# Hi, I'm Keqi Zhang
 
-### Analytics Engineering • Data Engineering • AI Analytics
+### Data & Analytics Engineering • Applied AI
 
-**M.S. in Data Science @ Rutgers University 🇺🇸**
+**M.S. in Data Science @ Rutgers University, USA**
 
-Building analytics platforms, data pipelines, and AI-powered decision support systems.
+I build **data pipelines, analytics platforms, and AI-powered systems** that transform complex operational data into decision-ready insights.
 
-Currently seeking **Analytics Engineer**, **Business Intelligence Engineer**, **Applied DS** and **Data Analytics** opportunities.
-<div align="center">
+ Seeking opportunities in **Analytics Engineering**, **Data Engineering**, **Business Intelligence Engineering**, and **Applied AI**.
 
-<a href="https://www.linkedin.com/in/keqi-zhang-391843268/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/keqi-zhang-391843268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiraZhang-Keqi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+## What I Build
+
+**Data & Analytics Engineering**  
+ETL/ELT pipelines • Data quality & observability • SQL workflows • API integrations
+
+**Business Intelligence & Decision Support**  
+Analytics dashboards • KPI reporting • Survey analytics • Stakeholder-facing insights
+
+**Applied AI Systems**  
+LLM-assisted diagnostics • NLP pipelines • AI-powered workflows • Intelligent automation
+
+
+## Selected Systems
+
+### 🔍 AI Data Observability Platform
+
+**LLM-assisted root-cause analysis for data pipeline failures**
+
+<a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-</div>
+Built a diagnostic system that analyzes telemetry and data-quality signals to identify root causes of ETL pipeline failures.
+
+**Architecture**
+
+`Pipeline Telemetry → Splunk → Failure Detection → LLM Diagnosis → Root Cause → Remediation`
+
+**Impact**
+
+* Validated across **15 controlled failure scenarios**
+* Achieved **100% root-cause identification** in the evaluation suite
+* Covered schema drift, volume anomalies, and freshness failures
+
+**Stack:** `Python` `Splunk Enterprise` `Claude API` `MCP` `Data Quality`
 
 
-## Featured Projects
+### Survey Analytics Engineering System
 
-### AI Data Observability Platform <a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+**Reproducible analytics workflows for institutional survey data**
 
-AI-powered data observability platform that identifies the exact root cause of ETL pipeline failures through schema, lineage, and data-quality analysis.
+<a href="YOUR_SURVEY_REPO_URL">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-**Tech Stack:** Python • Splunk Enterprise • Claude API • MCP
+Designed a reusable analytics workflow for survey ingestion, validation, response-quality monitoring, and stakeholder reporting.
 
+**Architecture**
 
-### Cash Flow Analytics Platform <a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+`Survey Data → Validation → Transformation → Quality Checks → Analytics Layer → BI Dashboard`
 
-B2B cash-flow analytics platform that forecasts 90-day runway and recommends inventory liquidation, receivable collection, or financing actions.
+**Engineering Focus**
 
-**Tech Stack:** Python • PostgreSQL • Streamlit • Pandas
+* Standardized multi-survey data processing workflows
+* Added validation checks for response quality and reporting consistency
+* Structured reusable transformations for demographic and survey analytics
+* Supported stakeholder-facing dashboards and recurring reporting
 
-### News Intelligence Analytics Pipeline <a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+**Stack:** `Python` `SQL` `Tableau` `Qualtrics` `Excel`
 
-Behavioral NLP analytics pipeline that classified 10,500+ news headlines into business intelligence categories for downstream analytics and visualization.
-
-**Tech Stack:** Python • Scikit-Learn • Transformers • Streamlit
-
-### Voice Navigation AI Assistant <a href="https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-Hands-free voice navigation assistant powered by Gemini for natural language interaction and workflow automation.
-
-**Tech Stack:** Python • Gemini API • Speech Recognition • REST APIs
-
-### March Madness Prediction <a href="https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-Machine learning pipeline for NCAA March Madness prediction using feature engineering, model evaluation, and tournament simulation.
-
-**Tech Stack:** Python • Scikit-Learn • Pandas • Machine Learning
-
-### Survey Analytics Dashboard
-
-Interactive Tableau dashboards and automated reporting for institutional survey analytics, demographic insights, and response quality monitoring.
-
-**Tech:** Tableau • SQL • Python • Qualtrics • Excel
+> Portfolio implementation uses synthetic or anonymized data to preserve institutional privacy.
 
 
-# Tech Stack
+### Cash Flow Intelligence Platform
 
-### Languages
+**Decision-support analytics for B2B liquidity and operational risk**
+
+<a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+Built an end-to-end analytics platform that transforms financial and operational data into cash-flow forecasts and recommended business actions.
+
+**Architecture**
+
+`Operational Data → PostgreSQL → Analytics Pipeline → 90-Day Forecast → Decision Engine → Streamlit`
+
+**Impact**
+
+* Forecasts **90-day cash runway**
+* Evaluates liquidity and operational risk
+* Recommends inventory, receivables, or financing actions
+
+**Stack:** `Python` `PostgreSQL` `Pandas` `Streamlit` `Data Pipelines`
+
+### News Intelligence Analytics Pipeline
+
+**Multi-label NLP system for behavioral intelligence**
+
+<a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+Built an NLP analytics pipeline that transforms unstructured news data into structured behavioral intelligence for downstream analysis.
+
+**Architecture**
+
+`10.5K+ Headlines → Text Processing → Multi-Label Classification → Evaluation → Analytics App`
+
+**Impact**
+
+* Processed **10,500+ news headlines**
+* Built a **12-category behavioral taxonomy**
+* Achieved **0.943 Micro-F1**
+* Benchmarked classical ML against transformer-based models
+
+**Stack:** `Python` `Scikit-Learn` `Transformers` `NLP` `Streamlit`
+
+## Engineering Toolkit
+
+### Data & Analytics Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-
-### Analytics Engineering
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
-![ETL](https://img.shields.io/badge/ETL-00599C?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%2FELT-00599C?style=flat-square)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-4C8BF5?style=flat-square)
 ![Data Quality](https://img.shields.io/badge/Data_Quality-4CAF50?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
 
 ### Analytics & BI
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square\&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
 
-### AI for Analytics
+### Applied AI & ML
 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6C63FF?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 
-### Development
+### Platforms & Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-## Interests
+---
 
-Analytics Engineering • Data Platforms • Data Quality • Business Intelligence • AI-powered Analytics • Decision Support Systems
+## Current Focus
 
+Building systems at the intersection of:
 
-</div>
+**Analytics Engineering** • **Data Quality & Observability** • **Business Intelligence** • **Applied AI** • **Decision Support Systems**
