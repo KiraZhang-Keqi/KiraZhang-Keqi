@@ -32,13 +32,9 @@ LLM-assisted diagnostics • NLP pipelines • AI-powered workflows • Intellig
 
 ## Selected Systems
 
-### AI Data Observability Platform
+### AI Data Observability Platform <a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **LLM-assisted root-cause analysis for data pipeline failures**
-
-<a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 Built a diagnostic system that analyzes telemetry and data-quality signals to identify root causes of ETL pipeline failures.
 
