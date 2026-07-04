@@ -51,13 +51,9 @@ Built a diagnostic system that analyzes telemetry and data-quality signals to id
 **Stack:** `Python` `Splunk Enterprise` `Claude API` `MCP` `Data Quality`
 
 
-### Survey Analytics Engineering System
+### Survey Analytics Engineering System <a href="YOUR_SURVEY_REPO_URL"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **Reproducible analytics workflows for institutional survey data**
-
-<a href="YOUR_SURVEY_REPO_URL">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 Designed a reusable analytics workflow for survey ingestion, validation, response-quality monitoring, and stakeholder reporting.
 
@@ -77,13 +73,9 @@ Designed a reusable analytics workflow for survey ingestion, validation, respons
 > Portfolio implementation uses synthetic or anonymized data to preserve institutional privacy.
 
 
-### Cash Flow Intelligence Platform
+### Cash Flow Intelligence Platform <a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **Decision-support analytics for B2B liquidity and operational risk**
-
-<a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 Built an end-to-end analytics platform that transforms financial and operational data into cash-flow forecasts and recommended business actions.
 
@@ -99,13 +91,10 @@ Built an end-to-end analytics platform that transforms financial and operational
 
 **Stack:** `Python` `PostgreSQL` `Pandas` `Streamlit` `Data Pipelines`
 
-### News Intelligence Analytics Pipeline
+
+### News Intelligence Analytics Pipeline <a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **Multi-label NLP system for behavioral intelligence**
-
-<a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 Built an NLP analytics pipeline that transforms unstructured news data into structured behavioral intelligence for downstream analysis.
 
