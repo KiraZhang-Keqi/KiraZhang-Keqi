@@ -32,7 +32,7 @@ LLM-assisted diagnostics • NLP pipelines • AI-powered workflows • Intellig
 
 ## Selected Systems
 
-### 🔍 AI Data Observability Platform
+### AI Data Observability Platform
 
 **LLM-assisted root-cause analysis for data pipeline failures**
 
