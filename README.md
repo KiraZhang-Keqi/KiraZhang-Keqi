@@ -9,7 +9,7 @@ I build **data pipelines, analytics platforms, and AI-powered systems** that tra
  Seeking opportunities in **Analytics Engineering**, **Data Engineering**, **Business Intelligence Engineering**, and **Applied AI**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/keqi-zhang-391843268/">
+  <a href="https://www.linkedin.com/in/keqi-zhang/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/KiraZhang-Keqi">
