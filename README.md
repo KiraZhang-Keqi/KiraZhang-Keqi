@@ -1,4 +1,4 @@
-# Hi, I'm Keqi Zhang
+## Hi, I'm Keqi Zhang
 
 ### Data & Analytics Engineering • Applied AI
 
@@ -144,10 +144,3 @@ Built an NLP analytics pipeline that transforms unstructured news data into stru
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-
-## Current Focus
-
-Building systems at the intersection of:
-
-**Analytics Engineering** • **Data Quality & Observability** • **Business Intelligence** • **Applied AI** • **Decision Support Systems**
