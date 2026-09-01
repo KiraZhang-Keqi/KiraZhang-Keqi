@@ -10,7 +10,7 @@ My work sits at the intersection of three areas:
 
 • AI Systems: LLM applications, AI-assisted workflows, evaluation, benchmarking, and intelligent data systems
 
-My projects span financial analytics, risk-oriented decision support, machine learning, NLP, and data/AI systems — from building forecasting and analytics platforms to developing ML models and evaluating AI-powered workflows.
+My projects span financial analytics, risk-oriented decision support, machine learning, NLP, and data/AI systems.
 
 I’m interested in problems where data, modeling, and intelligent systems come together to support better decisions.
 
