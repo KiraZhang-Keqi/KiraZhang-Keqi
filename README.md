@@ -12,6 +12,8 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 
 ### Cash Flow Intelligence
 
+[View Repository →](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
+
 **Financial Analytics · Forecasting · Risk Analytics**
 
 End-to-end analytics system that transforms financial and operational data into
@@ -22,10 +24,9 @@ cash-flow forecasts and risk-oriented decision support.
 - Developed decision logic for inventory, receivables, and financing actions
 - Built an interactive analytics application with Python and PostgreSQL
 
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
-
-
 ### News Intelligence
+
+[View Repository →](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
 **Machine Learning · NLP · Behavioral Analytics**
 
@@ -37,10 +38,9 @@ behavioral intelligence.
 - Achieved **0.943 Micro-F1** with TF-IDF + Logistic Regression
 - Benchmarked classical ML against transformer-based models
 
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
-
-
 ### AI Data Observability
+
+[View Repository →](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 **Anomaly Detection · Data Quality · AI Systems**
 
@@ -51,9 +51,6 @@ failures.
 - Achieved **100% root-cause identification** in the evaluation suite
 - Covered schema drift, volume anomalies, and freshness failures
 - Integrated LLM-based diagnosis into a data-quality workflow
-
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
-
 
 ## Technical Skills
 
