@@ -10,11 +10,11 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 
 ## Featured Projects
 
-### Cash Flow Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
+### NCAA Tournament Prediction [View Repository](YOUR_KAGGLE_REPOSITORY_LINK)
 
-**Financial Analytics · Forecasting · Risk Analytics**
+**Machine Learning · Predictive Modeling · Probability Calibration**
 
-End-to-end analytics system that transforms financial and operational data into cash-flow forecasts and risk-oriented decision support.
+Machine learning system for predicting NCAA tournament outcomes using historical game data, feature engineering, temporal validation, and calibrated probabilities.
 
 ### News Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
@@ -27,6 +27,14 @@ Multi-label NLP pipeline for transforming unstructured news data into structured
 **Anomaly Detection · Data Quality · AI Systems**
 
 LLM-assisted diagnostic system for identifying and explaining data pipeline failures.
+
+## Other Projects
+
+### Survey Analytics [View Repository](YOUR_SURVEY_REPOSITORY_LINK)
+
+**Statistical Analysis · Data Analytics · Visualization**
+
+Reproducible analytics workflow for survey data ingestion, validation, transformation, and stakeholder reporting.
 
 ## Technical Skills
 
