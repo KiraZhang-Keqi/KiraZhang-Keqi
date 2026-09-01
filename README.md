@@ -1,6 +1,6 @@
 ## Hi, I'm Keqi Zhang
 
-I’m an M.S. Data Science student at Rutgers University building data and AI systems that turn complex data into reliable models, analytics, and decisions.
+M.S. Data Science student at Rutgers University building data and AI systems that turn complex data into reliable models, analytics, and decisions.
 
 My work sits at the intersection of three areas:
 
