@@ -28,14 +28,6 @@ Multi-label NLP pipeline for transforming unstructured news data into structured
 
 LLM-assisted diagnostic system for identifying and explaining data pipeline failures.
 
-## Other Projects
-
-### Survey Analytics [View Repository](YOUR_SURVEY_REPOSITORY_LINK)
-
-**Statistical Analysis · Data Analytics · Visualization**
-
-Reproducible analytics workflow for survey data ingestion, validation, transformation, and stakeholder reporting.
-
 ## Technical Skills
 
 ### Data Science & Machine Learning
