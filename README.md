@@ -8,11 +8,9 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KiraZhang-Keqi)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/KeqiZhangKira)
 
----
-
 ## Featured Projects
 
-### 💰 Cash Flow Intelligence
+### Cash Flow Intelligence
 
 **Financial Analytics · Forecasting · Risk Analytics**
 
@@ -23,14 +21,10 @@ cash-flow forecasts and risk-oriented decision support.
 - Evaluated **liquidity and operational risk**
 - Developed decision logic for inventory, receivables, and financing actions
 - Built an interactive analytics application with Python and PostgreSQL
-
-**Tech:** `Python` `PostgreSQL` `Pandas` `Forecasting` `Risk Analytics`
-
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
 
----
 
-### 🧠 News Intelligence
+### News Intelligence
 
 **Machine Learning · NLP · Behavioral Analytics**
 
@@ -41,14 +35,10 @@ behavioral intelligence.
 - Developed a **12-category behavioral taxonomy**
 - Achieved **0.943 Micro-F1** with TF-IDF + Logistic Regression
 - Benchmarked classical ML against transformer-based models
-
-**Tech:** `Python` `Scikit-Learn` `NLP` `Transformers` `Model Evaluation`
-
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
----
 
-### 🔍 AI Data Observability
+### AI Data Observability
 
 **Anomaly Detection · Data Quality · AI Systems**
 
@@ -59,25 +49,8 @@ failures.
 - Achieved **100% root-cause identification** in the evaluation suite
 - Covered schema drift, volume anomalies, and freshness failures
 - Integrated LLM-based diagnosis into a data-quality workflow
-
-**Tech:** `Python` `Splunk` `Data Quality` `Anomaly Detection` `LLM`
-
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
----
-
-## Other Projects
-
-### 📊 Survey Analytics
-
-**Statistical Analysis · Data Analytics · Visualization**
-
-Reproducible analytics workflow for survey data ingestion, validation,
-transformation, and stakeholder reporting.
-
-**Tech:** `Python` `SQL` `Tableau` `Qualtrics` `Excel`
-
----
 
 ## Technical Skills
 
@@ -109,17 +82,3 @@ transformation, and stakeholder reporting.
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-6E56CF?style=flat-square)
 ![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-8B5CF6?style=flat-square)
-
----
-
-## Education
-
-**Rutgers University — New Brunswick, NJ**  
-M.S. in Data Science
-
----
-
-## Interests
-
-`Machine Learning` · `Financial Analytics` · `Risk Analytics` ·
-`Predictive Modeling` · `NLP` · `AI Systems`
