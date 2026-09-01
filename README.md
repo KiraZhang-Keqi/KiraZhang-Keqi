@@ -1,117 +1,18 @@
 ## Hi, I'm Keqi Zhang
 
-### Data & Analytics Engineering • Applied AI
+I’m an M.S. Data Science student at Rutgers University building data and AI systems that turn complex data into reliable models, analytics, and decisions.
 
-**M.S. in Data Science @ Rutgers University, USA**
+My work sits at the intersection of three areas:
 
-I build **data pipelines, analytics platforms, and AI-powered systems** that transform complex operational data into decision-ready insights.
+• Data Science & Machine Learning: predictive modeling, feature engineering, statistical analysis, NLP, model evaluation, and experimentation
 
- Seeking opportunities in **Analytics Engineering**, **Data Engineering**, **Business Intelligence Engineering**, and **Applied AI**.
+• Data & Analytics Engineering: data pipelines, data modeling, ETL/ELT, SQL, data quality, and scalable analytics workflows
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/keqi-zhang-391843268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://devpost.com/KeqiZhangKira">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
-  </a>
-</p>
+• AI Systems: LLM applications, AI-assisted workflows, evaluation, benchmarking, and intelligent data systems
 
+My projects span financial analytics, risk-oriented decision support, machine learning, NLP, and data/AI systems — from building forecasting and analytics platforms to developing ML models and evaluating AI-powered workflows.
 
-## What I Build
-
-**Data & Analytics Engineering**  
-ETL/ELT pipelines • Data quality & observability • SQL workflows • API integrations
-
-**Business Intelligence & Decision Support**  
-Analytics dashboards • KPI reporting • Survey analytics • Stakeholder-facing insights
-
-**Applied AI Systems**  
-LLM-assisted diagnostics • NLP pipelines • AI-powered workflows • Intelligent automation
-
-
-## Selected Systems
-
-### AI Data Observability Platform <a href="https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-**LLM-assisted root-cause analysis for data pipeline failures**
-
-Built a diagnostic system that analyzes telemetry and data-quality signals to identify root causes of ETL pipeline failures.
-
-**Architecture**
-
-`Pipeline Telemetry → Splunk → Failure Detection → LLM Diagnosis → Root Cause → Remediation`
-
-**Impact**
-
-* Validated across **15 controlled failure scenarios**
-* Achieved **100% root-cause identification** in the evaluation suite
-* Covered schema drift, volume anomalies, and freshness failures
-
-**Stack:** `Python` `Splunk Enterprise` `Claude API` `MCP` `Data Quality`
-
-
-### Survey Analytics Engineering System <a href="YOUR_SURVEY_REPO_URL"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-**Reproducible analytics workflows for institutional survey data**
-
-Designed a reusable analytics workflow for survey ingestion, validation, response-quality monitoring, and stakeholder reporting.
-
-**Architecture**
-
-`Survey Data → Validation → Transformation → Quality Checks → Analytics Layer → BI Dashboard`
-
-**Engineering Focus**
-
-* Standardized multi-survey data processing workflows
-* Added validation checks for response quality and reporting consistency
-* Structured reusable transformations for demographic and survey analytics
-* Supported stakeholder-facing dashboards and recurring reporting
-
-**Stack:** `Python` `SQL` `Tableau` `Qualtrics` `Excel`
-
-> Portfolio implementation uses synthetic or anonymized data to preserve institutional privacy.
-
-
-### Cash Flow Intelligence Platform <a href="https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-**Decision-support analytics for B2B liquidity and operational risk**
-
-Built an end-to-end analytics platform that transforms financial and operational data into cash-flow forecasts and recommended business actions.
-
-**Architecture**
-
-`Operational Data → PostgreSQL → Analytics Pipeline → 90-Day Forecast → Decision Engine → Streamlit`
-
-**Impact**
-
-* Forecasts **90-day cash runway**
-* Evaluates liquidity and operational risk
-* Recommends inventory, receivables, or financing actions
-
-**Stack:** `Python` `PostgreSQL` `Pandas` `Streamlit` `Data Pipelines`
-
-
-### News Intelligence Analytics Pipeline <a href="https://github.com/KiraZhang-Keqi/2026-NLP-RAISE"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-**Multi-label NLP system for behavioral intelligence**
-
-Built an NLP analytics pipeline that transforms unstructured news data into structured behavioral intelligence for downstream analysis.
-
-**Architecture**
-
-`10.5K+ Headlines → Text Processing → Multi-Label Classification → Evaluation → Analytics App`
-
-**Impact**
-
-* Processed **10,500+ news headlines**
-* Built a **12-category behavioral taxonomy**
-* Achieved **0.943 Micro-F1**
-* Benchmarked classical ML against transformer-based models
-
-**Stack:** `Python` `Scikit-Learn` `Transformers` `NLP` `Streamlit`
-
-## Engineering Toolkit
+I’m interested in problems where data, modeling, and intelligent systems come together to support better decisions.
 
 ### Data & Analytics Engineering
 
