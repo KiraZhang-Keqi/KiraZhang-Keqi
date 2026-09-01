@@ -11,21 +11,19 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 ## Featured Projects
 
 ### Cash Flow Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
-End-to-end analytics system that transforms financial and operational data into cash-flow forecasts and risk-oriented decision support.
 
 **Financial Analytics · Forecasting · Risk Analytics**
+End-to-end analytics system that transforms financial and operational data into cash-flow forecasts and risk-oriented decision support.
 
 ### News Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
 **Machine Learning · NLP · Behavioral Analytics**
-
 Multi-label NLP pipeline for transforming unstructured news data into structured
 behavioral intelligence.
 
 ### AI Data Observability [View Repository](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 **Anomaly Detection · Data Quality · AI Systems**
-
 LLM-assisted diagnostic system for identifying and explaining data pipeline
 failures.
 
