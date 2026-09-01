@@ -21,6 +21,7 @@ cash-flow forecasts and risk-oriented decision support.
 - Evaluated **liquidity and operational risk**
 - Developed decision logic for inventory, receivables, and financing actions
 - Built an interactive analytics application with Python and PostgreSQL
+
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
 
 
@@ -35,6 +36,7 @@ behavioral intelligence.
 - Developed a **12-category behavioral taxonomy**
 - Achieved **0.943 Micro-F1** with TF-IDF + Logistic Regression
 - Benchmarked classical ML against transformer-based models
+
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
 
@@ -49,6 +51,7 @@ failures.
 - Achieved **100% root-cause identification** in the evaluation suite
 - Covered schema drift, volume anomalies, and freshness failures
 - Integrated LLM-based diagnosis into a data-quality workflow
+
 [View Repository →](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 
