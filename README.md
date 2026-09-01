@@ -11,6 +11,7 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 ## Featured Projects
 
 ### Cash Flow Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
+End-to-end analytics system that transforms financial and operational data into cash-flow forecasts and risk-oriented decision support.
 
 **Financial Analytics · Forecasting · Risk Analytics**
 
