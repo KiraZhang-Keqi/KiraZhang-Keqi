@@ -14,14 +14,6 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 
 **Financial Analytics · Forecasting · Risk Analytics**
 
-End-to-end analytics system that transforms financial and operational data into
-cash-flow forecasts and risk-oriented decision support.
-
-- Built a **90-day cash-flow forecasting** workflow
-- Evaluated **liquidity and operational risk**
-- Developed decision logic for inventory, receivables, and financing actions
-- Built an interactive analytics application with Python and PostgreSQL
-
 ### News Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
 **Machine Learning · NLP · Behavioral Analytics**
@@ -29,22 +21,12 @@ cash-flow forecasts and risk-oriented decision support.
 Multi-label NLP pipeline for transforming unstructured news data into structured
 behavioral intelligence.
 
-- Processed **10,500+ news headlines**
-- Developed a **12-category behavioral taxonomy**
-- Achieved **0.943 Micro-F1** with TF-IDF + Logistic Regression
-- Benchmarked classical ML against transformer-based models
-
 ### AI Data Observability [View Repository](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 **Anomaly Detection · Data Quality · AI Systems**
 
 LLM-assisted diagnostic system for identifying and explaining data pipeline
 failures.
-
-- Evaluated **15 controlled failure scenarios**
-- Achieved **100% root-cause identification** in the evaluation suite
-- Covered schema drift, volume anomalies, and freshness failures
-- Integrated LLM-based diagnosis into a data-quality workflow
 
 ## Technical Skills
 
