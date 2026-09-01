@@ -1,8 +1,8 @@
 ## Hi, I'm Keqi Zhang
 
-M.S. Data Science student at Rutgers University building data and AI systems that turn complex data into reliable models, analytics, and decisions.
+**M.S. Data Science student at Rutgers University building data and AI systems that turn complex data into reliable models, analytics, and decisions.**
 
-My work sits at the intersection of three areas:
+**My work sits at the intersection of three areas:**
 
 • Data Science & Machine Learning: predictive modeling, feature engineering, statistical analysis, NLP, model evaluation, and experimentation
 
@@ -10,9 +10,9 @@ My work sits at the intersection of three areas:
 
 • AI Systems: LLM applications, AI-assisted workflows, evaluation, benchmarking, and intelligent data systems
 
-My projects span financial analytics, risk-oriented decision support, machine learning, NLP, and data/AI systems.
+**My projects span financial analytics, risk-oriented decision support, machine learning, NLP, and data/AI systems.**
 
-I’m interested in problems where data, modeling, and intelligent systems come together to support better decisions.
+**I’m interested in problems where data, modeling, and intelligent systems come together to support better decisions.**
 
 ## Technical Skills
 
