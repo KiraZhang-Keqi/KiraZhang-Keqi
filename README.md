@@ -12,7 +12,7 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 
 ### Cash Flow Intelligence
 
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
+[View Repository](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence)
 
 **Financial Analytics · Forecasting · Risk Analytics**
 
@@ -26,7 +26,7 @@ cash-flow forecasts and risk-oriented decision support.
 
 ### News Intelligence
 
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
+[View Repository](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
 
 **Machine Learning · NLP · Behavioral Analytics**
 
@@ -40,7 +40,7 @@ behavioral intelligence.
 
 ### AI Data Observability
 
-[View Repository →](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
+[View Repository](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
 
 **Anomaly Detection · Data Quality · AI Systems**
 
