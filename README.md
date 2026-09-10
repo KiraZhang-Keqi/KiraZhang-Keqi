@@ -5,7 +5,6 @@
 Data Science · Machine Learning · Financial Analytics · AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keqi-zhang-391843268/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KiraZhang-Keqi)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/KeqiZhangKira)
 
 ## Featured Projects
