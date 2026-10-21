@@ -9,11 +9,13 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 
 ## Projects
 
-- [NCAA Tournament Prediction](YOUR_NCAA_REPOSITORY_LINK) - Predicts NCAA tournament outcomes using XGBoost, ensemble modeling, and calibrated probabilities across 22 seasons of historical data.
-- [AI Narrative Intelligence](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE) - Classifies 10,500+ AI news headlines across 12 behavioral categories using multi-label NLP and topic modeling.
-- [Pipeline Doctor](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk) - LLM-powered data observability agent that diagnoses pipeline failures using Splunk, data lineage, and automated alerting.
-- [Cash Flow Intelligence](YOUR_CASHFLOW_REPOSITORY_LINK) - AI-powered financial analytics platform for cash flow forecasting, working capital optimization, and financing recommendations.
-- [VoiceNav AI](YOUR_VOICENAV_REPOSITORY_LINK) - Converts natural voice commands into multi-stop driving routes using Google Gemini and Google Maps APIs.
+## Projects
+
+- [NCAA Tournament Prediction](https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle) - Predicts NCAA tournament outcomes using XGBoost, ensemble modeling, and probability calibration.
+- [AI Narrative Intelligence](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE) - Transforms 10,500+ news headlines into structured behavioral insights using multi-label NLP.
+- [Pipeline Doctor](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk) - Uses LLMs and Splunk to diagnose data pipeline failures and explain root causes.
+- [Cash Flow Intelligence](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence) - Analyzes financial health, detects cash flow anomalies, and forecasts revenue using time-series models.
+- [VoiceNav AI](https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3) - Converts natural language voice commands into multi-stop driving routes using Gemini and Google Maps APIs.
 
 ## Technical Skills
 
