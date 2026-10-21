@@ -10,7 +10,7 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 ## Projects
 
 - [NCAA Tournament Prediction](https://github.com/KiraZhang-Keqi/2026-ML-MarchMadness-Kaggle) - Predicts NCAA tournament outcomes using XGBoost, ensemble modeling, and probability calibration.
-- [AI Narrative Intelligence](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE) - Transforms 10,500+ news headlines into structured behavioral insights using multi-label NLP.
+- [NLP Narrative Intelligence](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE) - Transforms 10,500+ news headlines into structured behavioral insights using multi-label NLP.
 - [Pipeline Doctor](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk) - Uses LLMs and Splunk to diagnose data pipeline failures and explain root causes.
 - [Cash Flow Intelligence](https://github.com/KiraZhang-Keqi/2026-DE-CashFlowIntelligence) - Analyzes financial health, detects cash flow anomalies, and forecasts revenue using time-series models.
 - [VoiceNav AI](https://github.com/KiraZhang-Keqi/2026-SWE-VoiceNav-Gemini3) - Converts natural language voice commands into multi-stop driving routes using Gemini and Google Maps APIs.
