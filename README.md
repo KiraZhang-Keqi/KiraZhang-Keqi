@@ -7,25 +7,13 @@ Data Science · Machine Learning · Financial Analytics · AI Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keqi-zhang-391843268/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/KeqiZhangKira)
 
-## Featured Projects
+## Projects
 
-### NCAA Tournament Prediction [View Repository](YOUR_KAGGLE_REPOSITORY_LINK)
-
-**Machine Learning · Predictive Modeling · Probability Calibration**
-
-Machine learning system for predicting NCAA tournament outcomes using historical game data, feature engineering, temporal validation, and calibrated probabilities.
-
-### News Intelligence [View Repository](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE)
-
-**Machine Learning · NLP · Behavioral Analytics**
-
-Multi-label NLP pipeline for transforming unstructured news data into structured behavioral intelligence.
-
-### AI Data Observability [View Repository](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk)
-
-**Anomaly Detection · Data Quality · AI Systems**
-
-LLM-assisted diagnostic system for identifying and explaining data pipeline failures.
+- [NCAA Tournament Prediction](YOUR_NCAA_REPOSITORY_LINK) - Predicts NCAA tournament outcomes using XGBoost, ensemble modeling, and calibrated probabilities across 22 seasons of historical data.
+- [AI Narrative Intelligence](https://github.com/KiraZhang-Keqi/2026-NLP-RAISE) - Classifies 10,500+ AI news headlines across 12 behavioral categories using multi-label NLP and topic modeling.
+- [Pipeline Doctor](https://github.com/KiraZhang-Keqi/2026-LLM-PipelineDoctor-Splunk) - LLM-powered data observability agent that diagnoses pipeline failures using Splunk, data lineage, and automated alerting.
+- [Cash Flow Intelligence](YOUR_CASHFLOW_REPOSITORY_LINK) - AI-powered financial analytics platform for cash flow forecasting, working capital optimization, and financing recommendations.
+- [VoiceNav AI](YOUR_VOICENAV_REPOSITORY_LINK) - Converts natural voice commands into multi-stop driving routes using Google Gemini and Google Maps APIs.
 
 ## Technical Skills
 
