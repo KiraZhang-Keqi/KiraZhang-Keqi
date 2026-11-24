@@ -6,6 +6,7 @@ Data Science · Machine Learning · AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keqi-zhang-391843268/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/KeqiZhangKira)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kiriiaaaazhang)
 
 ## Projects
 
